@@ -4,3 +4,5 @@ Master line
 just for testing
 
 added a new line
+
+hash test
